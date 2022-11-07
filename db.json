@@ -35,6 +35,48 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Eggs",
+      "category": "Produce",
+      "isIntCart": false,
+      "id": 7
+    },
+    {
+      "name": "Dulce de Leche",
+      "category": "Dessert",
+      "isIntCart": false,
+      "id": 8
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isIntCart": false,
+      "id": 9
+    },
+    {
+      "name": "Tiramisu",
+      "category": "Dessert",
+      "isIntCart": false,
+      "id": 10
+    },
+    {
+      "name": "Chocolate",
+      "category": "Dessert",
+      "isIntCart": false,
+      "id": 11
+    },
+    {
+      "name": "New Dessert",
+      "category": "Dessert",
+      "isIntCart": false,
+      "id": 12
+    },
+    {
+      "name": "Badass Dessert",
+      "category": "Dessert",
+      "isIntCart": false,
+      "id": 13
     }
   ]
 }
